@@ -6,7 +6,7 @@ For this week's assignment focus on last week's reading assignment and work on t
 
 ## Function to greet a person
 
-Write a function named `greet` that takes one argument, say `name`, and **returns** a greeting string. For example, `greet("Thomas")` should **return** the string:
+Wfhe string:
 ```
 Hello Thomas. How are you?
 ```
